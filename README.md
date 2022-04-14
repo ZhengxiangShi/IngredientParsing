@@ -1,6 +1,26 @@
 # IngredientParser
 Here are the dataset and codes for our paper "[**Attention-based Ingredient Parser**]()". 
 
+## Introduction
+As virtual personal assistants have now penetrated the consumer market, with products such as Siri and Alexa, the research community has produced several works on *task-oriented dialogue tasks* such as hotel booking, restaurant booking, and movie recommendation.
+
+<p align="center">
+    <img src="asset/Example.pdf" width="400">
+</p>
+<p align="center">
+    <b>Applications of our ingredient parser model for conversational systems. </b>
+</p>
+Assisting users to cook is one of these tasks that are expected to be solved by intelligent assistants, where ingredients and its corresponding attributes, such as name, unit, and quantity, should be provided to users precisely and promptly.
+
+To provide an engaged and successful conversational service to users for cooking tasks, we propose a new ingredient parsing model
+<p align="center">
+    <img src="asset/model.pdf" width="400">
+</p>
+<p align="center">
+    <b>Model architecture.</b>
+</p>
+
+
 ## Code
 To reproduce our result, please follow the instructions below:
 ### 1. Download Pre-trained Glove Embedding
