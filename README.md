@@ -5,7 +5,7 @@ Here are the dataset and codes for our paper "[**Attention-based Ingredient Pars
 As virtual personal assistants have now penetrated the consumer market, with products such as Siri and Alexa, the research community has produced several works on *task-oriented dialogue tasks* such as hotel booking, restaurant booking, and movie recommendation.
 
 <p align="center">
-    <img src="asset/Example.png" width="800">
+    <img src="asset/Example.png" width="650">
 </p>
 <p align="center">
     <b>Applications of our ingredient parser model for conversational systems. </b>
@@ -14,7 +14,7 @@ Assisting users to cook is one of these tasks that are expected to be solved by 
 
 To provide an engaged and successful conversational service to users for cooking tasks, we propose a new ingredient parsing model
 <p align="center">
-    <img src="asset/model.png" width="800">
+    <img src="asset/model.png" width="650">
 </p>
 <p align="center">
     <b>Model architecture.</b>
