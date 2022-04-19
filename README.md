@@ -54,7 +54,7 @@ The source of the dataset is `https://github.com/cosylabiiit/Recipedb-companion-
 
 ## Citation
 ```
-@inproceedings{Shi2022b,
+@inproceedings{Shi2022attention,
 title = {Attention-based Ingredient Parser},
 author = {Shi, Zhengxiang and Ni, Pin and Wang, Meihui and Lipani, Aldo},
 year = {2022},
