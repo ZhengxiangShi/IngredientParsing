@@ -1,16 +1,18 @@
 # IngredientParser
-Here are the dataset and codes for our paper "[**Attention-based Ingredient Parser**]()". 
+Here are the dataset and codes for our ESANN 2022 paper "[**Attention-based Ingredient Parser**]()". 
 
 ## Introduction
 As virtual personal assistants have now penetrated the consumer market, with products such as Siri and Alexa, the research community has produced several works on *task-oriented dialogue tasks* such as hotel booking, restaurant booking, and movie recommendation.
-
+<br/><br/> 
 <p align="center">
     <img src="asset/Example.png" width="650">
 </p>
 <p align="center">
     <b>Applications of our ingredient parser model for conversational systems. </b>
 </p>
+<br/><br/> 
 Assisting users to cook is one of these tasks that are expected to be solved by intelligent assistants, where ingredients and its corresponding attributes, such as name, unit, and quantity, should be provided to users precisely and promptly. To provide an engaged and successful conversational service to users for cooking tasks, we propose a new ingredient parsing model.
+<br/><br/> 
 <p align="center">
     <img src="asset/model.png" width="650">
 </p>
@@ -56,7 +58,9 @@ The source of the dataset is `https://github.com/cosylabiiit/Recipedb-companion-
 ```
 @inproceedings{Shi2022attention,
 title = {Attention-based Ingredient Parser},
-author = {Shi, Zhengxiang and Ni, Pin and Wang, Meihui and Lipani, Aldo},
+author = {Shi, Zhengxiang and Ni, Pin and Wang, Meihui and and Kim, To Eun and Lipani, Aldo},
+booktitle = {European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning (ESANN)}
 year = {2022},
-keywords = {Named Entity Recognition}
+address = {Bruges, Belgium},
+keywords = {Conversational System, Named Entity Recognition}
 }
