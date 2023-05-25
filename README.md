@@ -59,7 +59,7 @@ The source of the dataset is `https://github.com/cosylabiiit/Recipedb-companion-
 @inproceedings{Shi2022attention,
 title = {Attention-based Ingredient Parser},
 author = {Shi, Zhengxiang and Ni, Pin and Wang, Meihui and and Kim, To Eun and Lipani, Aldo},
-booktitle = {European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning (ESANN)}
+booktitle = {European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning (ESANN)},
 year = {2022},
 address = {Bruges, Belgium},
 keywords = {Conversational System, Named Entity Recognition}
